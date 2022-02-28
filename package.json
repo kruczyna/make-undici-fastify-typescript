@@ -1,0 +1,33 @@
+{
+  "name": "make-undici-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prettier": "npx prettier --write ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kruczyna/make-undici-typescript.git"
+  },
+  "keywords": [
+    "undici",
+    "typescript",
+    "template",
+    "tap"
+  ],
+  "author": "Victoria Kruczek",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kruczyna/make-undici-typescript/issues"
+  },
+  "homepage": "https://github.com/kruczyna/make-undici-typescript#readme",
+  "dependencies": {
+    "undici": "^4.14.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.5.1",
+    "typescript": "^4.5.5"
+  }
+}
